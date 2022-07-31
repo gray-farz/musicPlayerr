@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#f50057</color>
+    <color name="purple_500">#bb002f</color>
+    <color name="purple_700">#E40F5B</color>
+    <color name="teal_200">#607d8b</color>
+    <color name="teal_700">#3f515a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#f50057</color>
+    <color name="colorPrimaryDark">#bb002f</color>
+    <color name="colorAccent">#607d8b</color>
+    <color name="colorAccentDark">#3f515a</color>
+
+    <color name="color_visited_post">#ECF0F1</color>
+    <color name="color_not_visited_post">@android:color/white</color>
+    <color name="color_orange">#ffc71c</color>
+    <color name="color_orange_dark">#F89406</color>
+    <color name="color_blue">#1bbc9b</color>
+    <color name="color_blue_dark">#aa1bbc9b</color>
+    <color name="music_player_dark_gray">#424242</color>
+</resources>
